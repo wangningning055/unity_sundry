@@ -1,0 +1,16 @@
+{
+    "name": "vw_bvh_handle",
+    "rootNamespace": "",
+    "references": [
+        "GUID:187a85d0877d4de4ca980bf3792c8454"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
